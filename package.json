@@ -1,0 +1,26 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Hellow world",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Shantanu",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-bot-builder": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanuor/chat-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hanuor/chat-bot/issues"
+  },
+  "homepage": "https://github.com/hanuor/chat-bot#readme"
+}
